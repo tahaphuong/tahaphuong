@@ -1,4 +1,7 @@
-### Hi there 👋
+### 🌱 wow
+
+<a href="https://msha.ke/fuong">my bio ✨</a>
+...
 
 <!--
 **tahaphuong/tahaphuong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
