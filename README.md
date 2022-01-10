@@ -1,4 +1,4 @@
-### 🌱 wow
+### 🌱
 
 <a href="https://msha.ke/fuong">my bio ✨</a>
 <br> updating...
