@@ -1,7 +1,7 @@
 ### 🌱
 
 <a href="https://msha.ke/fuong">my bio ✨</a>
-My portfolio: https://tahaphuong.github.io
+<br>My portfolio: https://tahaphuong.github.io
 
 <!--
 **tahaphuong/tahaphuong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
